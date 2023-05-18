@@ -1839,7 +1839,7 @@ SOFTWARE.
             },
             37510: {
                 'name': 'UserComment',
-                'type': 'Ascii'
+                'type': 'Undefined'
             },
             37520: {
                 'name': 'SubSecTime',
