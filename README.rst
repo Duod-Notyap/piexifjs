@@ -88,7 +88,7 @@ Both client-side and server-side. Standard browsers(Tested on IE11, Opera28, and
 Issues
 ------
 
-Give me details. Environment, code, input, output. I can do nothing with abstract.
+This is a for made for one change. Issue a PR or submit sisue on the main package. This was created for one reason and will be unsupported.
 
 License
 -------
